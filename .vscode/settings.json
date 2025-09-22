@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/harikrishnan/Downloads/jfreechart-1.0.19/lib/**/*.jar"
+    ]
+}
