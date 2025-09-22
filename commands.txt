@@ -1,0 +1,2 @@
+java -cp "build/classes:libraries/*" sistemaventa.SistemaVenta
+ant compile-with-libs    
